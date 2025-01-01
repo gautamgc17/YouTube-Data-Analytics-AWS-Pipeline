@@ -1,7 +1,5 @@
 # YouTube Data Analytics using AWS
 
-<br>
-
 ## Project Overview
 
 The projects aims to build a secure and streamlined data engineering pipeline on AWS, leveraging services like S3, IAM, Glue, Athena QuickSight, and Lambda for comprehensive analysis of structured and semi-structured YouTube data based on video categories and trending metrics.
